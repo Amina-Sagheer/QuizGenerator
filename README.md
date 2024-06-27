@@ -1,4 +1,7 @@
 # Quiz Generator
+<p align="center", height= 50, width = 50>
+  <img src="https://github.com/Amina-Sagheer/QuizGenerator/assets/172102325/944fca3d-90bb-4ec0-a4d8-370287b53da8">
+</p>
 
 This Python program generates a simple True/False quiz. The application reads a series of questions and their correct answers from a predefined data source, presents them to the user one by one, and keeps track of the user's score.
 
